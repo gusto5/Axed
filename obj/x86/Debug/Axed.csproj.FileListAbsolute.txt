@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\AxedV2\AxedV2\bin\Debug\Axed.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\AxedV2\AxedV2\bin\Debug\Axed.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\AxedV2\AxedV2\obj\x86\Debug\Axed.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\AxedV2\AxedV2\obj\x86\Debug\Axed.pdb
+C:\Users\Alex\Documents\GitHub\Axed\obj\x86\Debug\Axed.exe
+C:\Users\Alex\Documents\GitHub\Axed\obj\x86\Debug\Axed.pdb

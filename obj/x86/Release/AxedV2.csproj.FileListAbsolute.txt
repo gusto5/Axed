@@ -1,0 +1,5 @@
+C:\Users\Alex.Alex-PC\Projects\GiveAnyItem\AxedV2\AxedV2\bin\Release\AxedV2.exe
+C:\Users\Alex.Alex-PC\Projects\GiveAnyItem\AxedV2\AxedV2\bin\Release\AxedV2.pdb
+C:\Users\Alex.Alex-PC\Projects\GiveAnyItem\AxedV2\AxedV2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex.Alex-PC\Projects\GiveAnyItem\AxedV2\AxedV2\obj\x86\Release\AxedV2.exe
+C:\Users\Alex.Alex-PC\Projects\GiveAnyItem\AxedV2\AxedV2\obj\x86\Release\AxedV2.pdb

@@ -1,0 +1,12 @@
+C:\Users\Alex.Alex-PC\Projects\GiveAnyItem\AxedV2\AxedV2\bin\Debug\AxedV2.exe
+C:\Users\Alex.Alex-PC\Projects\GiveAnyItem\AxedV2\AxedV2\bin\Debug\AxedV2.pdb
+C:\Users\Alex.Alex-PC\Projects\GiveAnyItem\AxedV2\AxedV2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex.Alex-PC\Projects\GiveAnyItem\AxedV2\AxedV2\obj\x86\Debug\AxedV2.exe
+C:\Users\Alex.Alex-PC\Projects\GiveAnyItem\AxedV2\AxedV2\obj\x86\Debug\AxedV2.pdb
+C:\Users\Alex.Alex-PC\Documents\Visual Studio 2010\Projects\AxedV2\AxedV2\obj\x86\Debug\AxedV2.exe
+C:\Users\Alex.Alex-PC\Documents\Visual Studio 2010\Projects\AxedV2\AxedV2\obj\x86\Debug\AxedV2.pdb
+C:\Users\Alex.Alex-PC\Documents\Visual Studio 2010\Projects\AxedV2\AxedV2\bin\Debug\AxedV2.exe
+C:\Users\Alex.Alex-PC\Documents\Visual Studio 2010\Projects\AxedV2\AxedV2\bin\Debug\AxedV2.pdb
+C:\Users\Alex.Alex-PC\Documents\Visual Studio 2010\Projects\AxedV2\AxedV2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\AxedV2\AxedV2\obj\x86\Debug\AxedV2.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\AxedV2\AxedV2\obj\x86\Debug\AxedV2.pdb
