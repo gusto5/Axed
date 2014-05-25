@@ -45,8 +45,8 @@ namespace Axed
                     {
                         var values = new NameValueCollection { { "credentials.username", username }, { "credentials.password", password }, { "_login_remember_me", "true" } };
 
-                        client.UploadValues("http://dub.cm/account/submit", values);
-                        string clientSource = client.DownloadString("http://dub.cm/client?novote");
+                        client.UploadValues("http://vebbo.fr/account/submit", values);
+                        string clientSource = client.DownloadString("http://vebbo.fr/client?novote");
 
                         foreach (string source in clientSource.Split(Environment.NewLine.ToCharArray()))
                         {
